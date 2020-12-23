@@ -1,0 +1,73 @@
+body {
+    background: #505050;
+}
+
+#title {
+    color: #000000;
+    margin-left: 50px;
+}
+
+.nome {
+    color: #000000;
+    margin: 15px;
+    margin-left: 50px;
+}
+
+.email {
+    color: #000000;
+    margin: 15px;
+    margin-left: 50px;
+}
+
+.cpf {
+    color: #000000;
+    margin: 15px;
+    margin-left: 18px;
+}
+
+.telefone {
+    color:#000000;
+    margin: 15px;
+    margin-left: 32px;
+}
+
+.cep {
+    color: #000000;
+    margin: 15px;
+    margin-left: 58px;
+}
+
+.logradouro {
+    color: #000000;
+    margin: 15px;
+    margin-left: 12px;
+}
+
+.numero {
+   color: #000000;
+   margin: 15px; 
+   margin-left: 35px;
+}
+
+.bairro {
+    color: #000000;
+    margin: 15px;
+    margin-left: 45px;
+}
+
+.cidade {
+    color: #000000;
+    margin: 15px;
+    margin-left: 40px;
+}
+
+.estado {
+    color:#000000;
+    margin: 15px;
+    margin-left: 40px;
+}
+
+.enviar {
+    margin: 15px;
+    margin-left: 100px;
+}
